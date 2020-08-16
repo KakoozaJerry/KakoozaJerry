@@ -1,4 +1,14 @@
-### Hi there 👋
+#### Hi there 👋 beautiful looking homosapien
+My name is [Kakooza Abraham Jerry!] - aka, **Jerry**
+
+## Welcome to my secret corner:
+* Pronouns : He/Him :man:
+
+
+## How to Reach Me
+* Send me a mail :mailbox: at : abrahamkakooza@gmail.com
+* Twitter : https://twitter.com/KakoozaJerry
+* Linkedin : https://www.linkedin.com/in/kakooza-jerry-916481b1/
 
 <!--
 **KakoozaJerry/KakoozaJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
