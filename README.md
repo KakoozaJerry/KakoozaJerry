@@ -1,8 +1,14 @@
-#### Hi there 👋 beautiful looking homosapien
+#### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> beautiful looking homosapien
 My name is [Kakooza Abraham Jerry!] - aka, **Jerry**
 
 ## Welcome to my secret corner:
 * Pronouns : He/Him :man:
+
+My stack is as follows:
+* **Frontend**: HTML, CSS, JavaScript
+* **Backend**: NodeJs, Python, PHP
+* **Frameworks**: AngularJS, ReactJS, ElectronJS
+
 ---
 
 ## How to Reach Me
