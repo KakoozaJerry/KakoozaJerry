@@ -7,8 +7,8 @@ My name is [Kakooza Abraham Jerry!] - aka, **Jerry**
 My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: NodeJs, Python, PHP
-* **Frameworks**: AngularJS, ReactJS, ElectronJS
-* **CI/CD DevOps tools** Docker, Vim 
+* **Frameworks**: AngularJS, ReactJS, ElectronJS, Flutter, Flask, Django, Laravel
+* **CI/CD DevOps tools** Docker, Vim
 
 ---
 
