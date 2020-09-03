@@ -11,7 +11,6 @@ My stack is as follows:
 * **CI/CD DevOps tools** Docker, Vim
 <img src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg" width="405" height="540" />
 
----
 
 ## How to Reach Me
 * Send me a mail :mailbox: at : abrahamkakooza@gmail.com
