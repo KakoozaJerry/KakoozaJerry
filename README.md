@@ -8,6 +8,7 @@ My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: NodeJs, Python, PHP
 * **Frameworks**: AngularJS, ReactJS, ElectronJS
+* **CI/CD DevOps tools** Docker, Vim 
 
 ---
 
