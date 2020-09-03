@@ -3,12 +3,23 @@ My name is [Kakooza Abraham Jerry!] - aka, **Jerry**
 
 ## Welcome to my secret corner:
 * Pronouns : He/Him :man:
-
+---
 
 ## How to Reach Me
 * Send me a mail :mailbox: at : abrahamkakooza@gmail.com
-* Twitter : https://twitter.com/KakoozaJerry
-* Linkedin : https://www.linkedin.com/in/kakooza-jerry-916481b1/
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/kakooza-jerry-916481b1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/the_ayahuasca_/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/KakoozaJerry) 
+---
+
+## My GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/deborahtrez/deborahtrez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakoozajerry&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/KakoozaJerry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kakoozajerry&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jerry's GitHub Stats" />
+</a>
+---
 
 <!--
 **KakoozaJerry/KakoozaJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
