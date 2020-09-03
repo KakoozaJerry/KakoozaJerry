@@ -10,7 +10,7 @@ My stack is as follows:
 * **Frameworks**: AngularJS, ReactJS, ElectronJS, Flutter, Flask, Django, Laravel
 * **CI/CD DevOps tools** Docker, Vim
 <img src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg" width="400" height="400" />
-![This is me](https://res.cloudinary.com/dkfj0v8ow/image/upload/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg =250x250)
+![This is me](https://res.cloudinary.com/dkfj0v8ow/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg)
 ---
 
 ## How to Reach Me
