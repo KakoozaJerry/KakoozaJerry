@@ -8,7 +8,7 @@ My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: NodeJs, Python, PHP, GoLang
 * **Frameworks**: AngularJS, ReactJS, ElectronJS, Flutter, Flask, Django, Laravel
-* **CI/CD DevOps tools** Docker, Vim
+* **CI/CD DevOps tools** Docker, Vim, Kubernetes, Github Actions
 <img src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg" width="405" height="540" />
 
 
