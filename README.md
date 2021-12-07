@@ -11,6 +11,11 @@ My stack is as follows:
 * **CI/CD DevOps tools** Docker, Vim, Kubernetes, Github Actions
 <img src="https://res.cloudinary.com/dkfj0v8ow/image/upload/v1599156615/WhatsApp_Image_2020-08-29_at_09.24.09_zkjox7.jpg" width="405" height="540" />
 
+## Special wins
+Among the winners of the Coqui Long Tail Language Competition specialised in STT(Speech to Text ) technologies
+(https://coqui.ai/newsletter/06-12-2021#long-tail-language-competition)[https://coqui.ai/newsletter/06-12-2021#long-tail-language-competition]
+
+I have also done significant work within Text to Speech(TTS) Technologies especially for Luganda using DeepLearning Neural Networks.
 
 ## How to Reach Me
 * Send me a mail :mailbox: at : abrahamkakooza@gmail.com
