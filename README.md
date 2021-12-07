@@ -16,6 +16,8 @@ Among the winners of the Coqui Long Tail Language Competition specialised in STT
 [https://coqui.ai/newsletter/06-12-2021#long-tail-language-competition](https://coqui.ai/newsletter/06-12-2021#long-tail-language-competition)
 
 I have also done significant work within Text to Speech(TTS) Technologies especially for Luganda using DeepLearning Neural Networks.
+Example1 - [Here](https://soundcloud.com/jerry-kakooza/sets/vits-model-output-at-63k-steps?si=3a7cb9ca625847e1b7acb178d472a9fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+Example2 - [Here](https://soundcloud.com/jerry-kakooza/sets/tacotron2-ddc-300k-coqui?si=164a8d9098144909a0631134747d5569&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ## How to Reach Me
 * Send me a mail :mailbox: at : abrahamkakooza@gmail.com
